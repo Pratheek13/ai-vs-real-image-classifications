@@ -75,11 +75,11 @@ Images were resized, normalized, and augmented before training.
 
 ## 📈 Performance Comparison
 
-| Model         | Accuracy | AI Precision | Real Precision | AI Recall | Real Recall |
-|--------------|----------|--------------|----------------|-----------|------------|
-| MobileNetV2  | 98.81%   | 0.99         | 0.99           | 0.99      | 0.99       |
-| ResNet50     | 98.81%   | 0.99         | 0.99           | 0.99      | 0.99       |
-| EfficientNet | 97.27%   | 0.98         | 0.96           | 0.96      | 0.98       |
+| Model         | Accuracy |
+|--------------|----------
+| MobileNetV2  | 98.81%    |
+| ResNet50     | 98.81%    |
+| EfficientNet | 97.27%    |
 
 ---
 
